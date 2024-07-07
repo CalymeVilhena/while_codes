@@ -1,0 +1,9 @@
+#include <stdio.h>
+	int main (){
+		int cont=15,q;
+			while(cont<=35){
+				q=cont*cont;
+		printf("o quadrado do numero %d sera %d\n",cont,q);
+	cont++;
+		}
+	}

@@ -1,0 +1,11 @@
+#include <stdio.h>
+	int main(){
+		int cont=0,acm=0;
+		int st;
+			while(cont<=100){
+			acm=acm+cont;
+			cont++;
+			}
+			st=acm+cont;
+		printf(" a total sera: %d",acm);
+	}
